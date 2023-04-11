@@ -9,4 +9,4 @@
 [Apex](https://github.com/NVIDIA/apex)
 
 ## Datasets
-### Download the following datasets and unzip them into `dataset` folder
+### Download the following datasets 
