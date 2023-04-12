@@ -19,9 +19,6 @@ The framework of CPCL. Please refer to [Paper Link](https://ieeexplore.ieee.org/
   * [FGVC-Aircraft](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/) <br>
   * [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html) <br>
 
-## Pretrained weights for backbone
-* If you want to train your own model, please download the [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth) into `resource` folder.
-
 ## Training
 
 ```
@@ -37,3 +34,5 @@ cd ../localization
 python train_l.py         # train the class-agnostic co-localization Network 
 python test_l.py          # evaluate the localization accuracy 
 ```
+* If you want to train your own model, please download the [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth) into `resource` folder.
+
