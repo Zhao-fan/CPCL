@@ -24,16 +24,16 @@ The framework of CPCL. Please refer to [Paper Link](https://ieeexplore.ieee.org/
 
 ## Training
 
-> cd classifier      <br>
-> python train_c.py         # train the classification model <br>
-> python test_c.py        # keep the classification result to top1top5.npy  <br>
-> 
-> cd ../gengration          <br>
-> python train_g.py         # train the Pseudo-label Generation Network    <br>
-> python test_g.py           # keep the pseudo masks    <br>
-> 
-> cd ../localization          <br>
-> python train_l.py          # train the class-agnostic co-localization Network  <br> 
-> python test_l.py           # evaluate the localization accuracy   <br>
+```
+cd classifier      <br>
+python train_c.py         # train the classification model <br>
+python test_c.py          # keep the classification result to top1top5.npy  <br>
 
+cd ../gengration          <br>
+python train_g.py         # train the Pseudo-label Generation Network    <br>
+python test_g.py          # keep the pseudo masks    <br>
 
+cd ../localization          <br>
+python train_l.py         # train the class-agnostic co-localization Network  <br> 
+python test_l.py          # evaluate the localization accuracy   <br>
+```
