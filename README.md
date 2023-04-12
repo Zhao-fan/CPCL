@@ -48,3 +48,4 @@ python test_l.py         # evaluate the model performance
   * [FGVC-Aircraft](https://pan.baidu.com/s/1uujnylWIdwBO2uyY1yTPmQ) extract code：a79f, put it into the folder `localization/out`  <br>
   * [Stanford Dogs](https://pan.baidu.com/s/1o_3D3xfJW5kfC-I441KcMg) extract code：v2as, put it into the folder `localization/out`  <br> 
 
+## Quantitative comparisons
