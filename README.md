@@ -20,7 +20,7 @@ The framework of CPCL. Please refer to [Paper Link](https://ieeexplore.ieee.org/
   * [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html) <br>
 
 ## Training
-
+Training the model as below:
 ```
 cd classifier     
 python train_c.py         # train the classification model
@@ -35,4 +35,16 @@ python train_l.py         # train the class-agnostic co-localization Network
 python test_l.py          # evaluate the localization accuracy 
 ```
 * If you want to train your own model, please download the [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth) into `resource` folder.
+
+## Testing
+Testing the trained model as below:
+```
+cd localization
+python test_l.py         # evaluate the model performance 
+```
+* If you want to evaluate the performance of CPCL, please download our trained model:
+  * [CUB-200-2011](https://pan.baidu.com/s/1tGZqun_oEth-UbwM2zIFlw) extract code：h747, put it into the folder `localization/out`   <br>
+  * [Stanford Cars](https://pan.baidu.com/s/19I1314zLyBPJQkHmXvvNgA) extract code：a889, put it into the folder `localization/out`  <br>
+  * [FGVC-Aircraft](https://pan.baidu.com/s/1uujnylWIdwBO2uyY1yTPmQ) extract code：a79f, put it into the folder `localization/out`  <br>
+  * [Stanford Dogs](https://pan.baidu.com/s/1o_3D3xfJW5kfC-I441KcMg) extract code：v2as, put it into the folder `localization/out`  <br> 
 
