@@ -18,3 +18,22 @@ The framework of CPCL. Please refer to [Paper Link](https://ieeexplore.ieee.org/
   * [Stanford Cars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html) <br>
   * [FGVC-Aircraft](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/) <br>
   * [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html) <br>
+
+## Pretrained weights for backbone
+* If you want to train your own model, please download the [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth) into `resource` folder.
+
+## Training
+
+> cd classifier      <br>
+> python train_c.py         # train the classification model <br>
+> python test_c.py        # keep the classification result to top1top5.npy  <br>
+> 
+> cd ../gengration          <br>
+> python train_g.py         # train the Pseudo-label Generation Network    <br>
+> python test_g.py           # keep the pseudo masks    <br>
+> 
+> cd ../localization          <br>
+> python train_l.py          # train the class-agnostic co-localization Network  <br> 
+> python test_l.py           # evaluate the localization accuracy   <br>
+
+
