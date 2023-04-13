@@ -53,4 +53,4 @@ python test_l.py         # evaluate the model performance
 ![](https://github.com/Zhao-fan/CPCL/blob/main/resource/loc.png)
 
 ## Qualitative comparisons
-![](https://github.com/Zhao-fan/CPCL/blob/main/images/Fig_6.png)
+![](https://github.com/Zhao-fan/CPCL/blob/main/resource/Fig_6.png)
