@@ -69,5 +69,6 @@ If you find the code helpful in your resarch or work, please cite the following 
   author={Ma, Lei and Zhao, Fan and Hong, Hanyu and Wang, Lei and Zhu, Ying},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Complementary Parts Contrastive Learning for Fine-grained Weakly Supervised Object Co-localization}, 
-  year={2023}}}
+  year={2023}
+}
 ```
