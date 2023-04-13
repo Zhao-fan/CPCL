@@ -52,3 +52,4 @@ python test_l.py         # evaluate the model performance
 ![](https://github.com/Zhao-fan/CPCL/blob/main/images/cubloc.png)
 
 ## Qualitative comparisons
+![](https://github.com/Zhao-fan/CPCL/blob/main/images/Fig_6.png)
