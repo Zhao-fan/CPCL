@@ -61,3 +61,13 @@ Visualization of the CUB-200-2011 dataset. (a) Input images. (b) The initial CAM
 
 ## Acknowledgement
 Many thanks to [Shallow Feature Matters for Weakly Supervised Object Localization](https://github.com/weijun88/SPOL)
+
+## Citation
+If you find the code helpful in your resarch or work, please cite the following paper.
+```
+@ARTICLE{CPCL2023,
+  author={Ma, Lei and Zhao, Fan and Hong, Hanyu and Wang, Lei and Zhu, Ying},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Complementary Parts Contrastive Learning for Fine-grained Weakly Supervised Object Co-localization}, 
+  year={2023}}}
+```
