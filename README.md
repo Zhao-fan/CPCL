@@ -1,6 +1,6 @@
 # “[Complementary Parts Contrastive Learning for Fine-grained Weakly Supervised Object Co-localization](https://ieeexplore.ieee.org/document/10098208)” has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, 2023).
 ## The Framework
-![](https://github.com/Zhao-fan/CPCL/blob/main/images/framework.png)
+![](https://github.com/Zhao-fan/CPCL/blob/main/resource/framework.png)
 The framework of CPCL. Please refer to [Paper Link](https://ieeexplore.ieee.org/document/10098208) for details.
 
 ## Requirements
