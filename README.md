@@ -49,7 +49,7 @@ python test_l.py         # evaluate the model performance
   * [Stanford Dogs](https://pan.baidu.com/s/1o_3D3xfJW5kfC-I441KcMg) extract code：v2as, put it into the folder `localization/out`  <br> 
 
 ## Quantitative comparisons
-![](https://github.com/Zhao-fan/CPCL/blob/main/images/cubloc.png)
+![](https://github.com/Zhao-fan/CPCL/blob/main/resource/cubloc.png)
 
 ## Qualitative comparisons
 ![](https://github.com/Zhao-fan/CPCL/blob/main/images/Fig_6.png)
