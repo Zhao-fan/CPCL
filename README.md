@@ -47,6 +47,7 @@ python test_l.py         # evaluate the model performance
   * [Stanford Cars](https://pan.baidu.com/s/1tZS54qdX015zeZmaIycdsQ) extract code：oqge    <br>
   * [FGVC-Aircraft](https://pan.baidu.com/s/1IjbkCbdXXJxEsuCvY0Xe1Q) extract code：42do  <br>
   * [Stanford Dogs](https://pan.baidu.com/s/17j3q6bXU4XlhVIkXiYiy7A) extract code：ihc2  <br> 
+  
   put it into the folder `localization/out`.
 
 ## Quantitative comparisons
