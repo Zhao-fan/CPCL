@@ -43,10 +43,11 @@ cd localization
 python test_l.py         # evaluate the model performance 
 ```
 * If you want to evaluate the performance of CPCL, please download our trained model:
-  * [CUB-200-2011](https://pan.baidu.com/s/1tGZqun_oEth-UbwM2zIFlw) extract code：h747, put it into the folder `localization/out`   <br>
-  * [Stanford Cars](https://pan.baidu.com/s/19I1314zLyBPJQkHmXvvNgA) extract code：a889, put it into the folder `localization/out`  <br>
-  * [FGVC-Aircraft](https://pan.baidu.com/s/1uujnylWIdwBO2uyY1yTPmQ) extract code：a79f, put it into the folder `localization/out`  <br>
-  * [Stanford Dogs](https://pan.baidu.com/s/1o_3D3xfJW5kfC-I441KcMg) extract code：v2as, put it into the folder `localization/out`  <br> 
+  * [CUB-200-2011](https://pan.baidu.com/s/11Stx6p60dOW_b78eGbbUOQ) extract code：79ap   <br>
+  * [Stanford Cars](https://pan.baidu.com/s/1tZS54qdX015zeZmaIycdsQ) extract code：oqge    <br>
+  * [FGVC-Aircraft](https://pan.baidu.com/s/1IjbkCbdXXJxEsuCvY0Xe1Q) extract code：42do  <br>
+  * [Stanford Dogs](https://pan.baidu.com/s/17j3q6bXU4XlhVIkXiYiy7A) extract code：ihc2  <br> 
+  put it into the folder `localization/out`.
 
 ## Quantitative comparisons
 ![](https://github.com/Zhao-fan/CPCL/blob/main/resource/cubloc.png)
